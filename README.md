@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/WGA-DEVOPS/Beginner%20HTML/_apis/build/status%2Fmichaelcheog73.beginner-html-site-styled?branchName=gh-pages)](https://dev.azure.com/WGA-DEVOPS/Beginner%20HTML/_build/latest?definitionId=1&branchName=gh-pages)
+
 # beginner-html-site-styled
 A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
 
