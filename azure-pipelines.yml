@@ -5,6 +5,7 @@
 
 trigger:
 - gh-pages
+- release/*
 
 pool:
   vmImage: ubuntu-latest
